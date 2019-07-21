@@ -1,2 +1,2 @@
 # coin-price-predictor
-![Grafico](https://i.imgur.com/VvDjs5s.png)
+![Grafico](https://i.imgur.com/VB9JOTn.png)
